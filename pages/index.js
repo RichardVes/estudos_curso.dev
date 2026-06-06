@@ -1,5 +1,17 @@
-function Home(){
-    return <h1> :P </h1>
-}
+export default function Home() {
+  return (
+    <div
+      style={{
+        textAlign: "center",
+        marginTop: "100px",
+        fontFamily: "Georgia",
+      }}
+    >
+      <div style={{ fontSize: "120px", color: "red" }}>
+        ♥
+      </div>
 
-export default Home;
+      <h1>Para a mulher que faz a minha vida mais feliz!</h1>
+    </div>
+  );
+}
