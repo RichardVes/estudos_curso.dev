@@ -1,4 +1,4 @@
-export default function Home() {
+function Home() {
   return (
     <div
       style={{
@@ -7,11 +7,11 @@ export default function Home() {
         fontFamily: "Georgia",
       }}
     >
-      <div style={{ fontSize: "120px", color: "red" }}>
-        ♥
-      </div>
+      <div style={{ fontSize: "120px", color: "red" }}>♥</div>
 
       <h1>Para a mulher que faz a minha vida mais feliz!</h1>
     </div>
   );
 }
+
+export default Home;

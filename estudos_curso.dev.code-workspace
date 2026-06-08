@@ -1,12 +1,12 @@
 {
-	"folders": [
-		{
-			"name": "estudos_curso.dev",
-			"path": "."
-		},
-		{
-			"path": "L:/Obsidian/Curso.dev"
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "name": "estudos_curso.dev",
+      "path": ".",
+    },
+    {
+      "path": "L:/Obsidian/Curso.dev",
+    },
+  ],
+  "settings": {},
 }
